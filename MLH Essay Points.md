@@ -77,6 +77,6 @@ for eg :- "You are writing you are passionate about your work " Write how are yo
 Pitch Yourself / Tell about yourself which make you fit for this role .
 
 
-
+If you liked it do give it a star ⭐ and pull requests are always welcomed !!!
 
 
